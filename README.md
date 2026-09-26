@@ -3,8 +3,6 @@
   <img src="https://github.com/user-attachments/assets/f2d42c94-d960-4b1f-b097-63a7f088cb8d" alt="Hahoqi" /></a>
 </p>
 
----
-
 <p align="center">
   <a href="https://github.com/Hahoqi">
     <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=22&duration=4000&pause=1000&color=53F7DF&background=3FD4FF00&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;Full+Stack+Software+Engineer;Always+building+%26+exploring" />
