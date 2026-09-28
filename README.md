@@ -1,6 +1,6 @@
 <p align="center">
     <a href= "https://github.com/Hahoqi">
-  <img src="https://github.com/user-attachments/assets/f2d42c94-d960-4b1f-b097-63a7f088cb8d" alt="Hahoqi" /></a>
+  <img src="https://github.com/Hahoqi/hahoqi/blob/3ba2595121619d176361265db74a8ba878aac9c6/logo.png" alt="Hahoqi" /></a>
 </p>
 
 <p align="center">
