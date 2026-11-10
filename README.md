@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img width="1088" height="612" alt="Image" src="https://github.com/user-attachments/assets/063eb4f9-2c5c-422c-8c51-6f6e36852af3" />
+<img width="1088" height="612" alt="Image" src="https://github.com/Hahoqi/hahoqi/blob/1ae3dfb246acea0ad1441e85cb8b177b057e429a/preview.gif" />
 
 ---
 
